@@ -5,7 +5,7 @@
 ---
 [![Linkedin: edisonjao](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edison-jao-44624718a/)](https://www.linkedin.com/in/edison-jao-44624718a/)
 [![Gitlab: edisonjao5](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/EdisonJao5)](https://gitlab.com/EdisonJao5)
-<a href="mailto=edisonjao5@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" /></a>
+<a href="mailto:edisonjao5@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" /></a>
 ---
 
 - 👨🏾‍💻 I’m currently working on a Real State company.
