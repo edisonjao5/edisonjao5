@@ -15,6 +15,9 @@
 - 🧐 Fun fact: I love **pizza**, It gives me a happiness that breaks all barriers.
 - 📚 Self Autodidact student in [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=flat-for-the-badge&logo=codecademy&logoColor=303347&link=https://www.codecademy.com/)](https://www.codecademy.com/) and [![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat-for-the-badge&logo=Pluralsight&logoColor=white&link=https://www.pluralsight.com/)](https://www.pluralsight.com/).
 
+---
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edisonjao5&bg_color=90,100,040426,f0cd35&title_color=fff&text_color=fff)
+
 ![Made with love: edisonjao](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ---
 
