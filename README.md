@@ -6,11 +6,12 @@
 [![Gitlab: edisonjao5](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/EdisonJao5)](https://gitlab.com/EdisonJao5)
 ---
 
-- 👨🏾‍💻 I’m currently working on a Real State company
-- 👨🏾‍🎓 I’m currently studying Software Engenieer in Douc
-- 🌏 I’m looking to collaborate on open source projects
-- 📮 Ask me about ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E), ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white), ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white).
+- 👨🏾‍💻 I’m currently working on a Real State company.
+- 👨🏾‍🎓 I’m currently studying Software Engenieer in Duoc.
+- 🌏 I’m looking to collaborate on open source projects.
+- 📮 Ask me about ![](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E), [![Python](https://img.shields.io/badge/Python-14354C?style=flat-for-the-badge&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/), [![React](https://img.shields.io/badge/React-20232A?style=flat-for-the-badge&logo=react&logoColor=61DAFB&link=https://react.dev/)](https://react.dev/), [![Django](https://img.shields.io/badge/Django-092E20?style=flat-or-the-badge&logo=django&logoColor=white&link=https://docs.djangoproject.com/en/4.2/)](https://docs.djangoproject.com/en/4.2/), [![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/doc)](https://git-scm.com/doc).
 - 🧐 Fun fact: I love **pizza**, It gives me a happiness that breaks all barriers.
+- 📚 Self Autodidact student in [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=flat-for-the-badge&logo=codecademy&logoColor=303347&link=https://www.codecademy.com/)](https://www.codecademy.com/) and [![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat-for-the-badge&logo=Pluralsight&logoColor=white&link=https://www.pluralsight.com/)](https://www.pluralsight.com/).
 
 ![Made with love: edisonjao](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ---
