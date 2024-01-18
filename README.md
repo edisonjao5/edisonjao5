@@ -1,7 +1,7 @@
 # Hi there 👋, I'm *Edison Jao*
 ### 💡 FullStack Developer ⌨️
 
-[![CODED5-13.png](https://i.postimg.cc/Bbx5jSs0/CODED5-13.png)](https://postimg.cc/zHGHM1Vt)
+[![CODED5-09.jpg](https://i.postimg.cc/NfDJDDqw/CODED5-09.jpg)](https://postimg.cc/rKdNFSwh)
 ---
 [![Linkedin: edisonjao](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edison-jao-44624718a/)](https://www.linkedin.com/in/edison-jao-44624718a/)
 [![Gitlab: edisonjao5](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/EdisonJao5)](https://gitlab.com/EdisonJao5)
