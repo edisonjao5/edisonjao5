@@ -9,7 +9,7 @@
 ---
 
 - 👨🏾‍💻 I’m currently working on a Real State company.
-- 👨🏾‍🎓 I’m currently studying Software Engenieer in **Duoc**.
+- 👨🏾‍🎓 I’m currently studying Data Science Engenieer in **IPSS**.
 - 🌏 I’m looking to collaborate on open source projects.
 - 📮 Ask me about [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://devdocs.io/javascript/)](https://devdocs.io/javascript/), [![Python](https://img.shields.io/badge/Python-14354C?style=flat-for-the-badge&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/), [![React](https://img.shields.io/badge/React-20232A?style=flat-for-the-badge&logo=react&logoColor=61DAFB&link=https://react.dev/)](https://react.dev/), [![Django](https://img.shields.io/badge/Django-092E20?style=flat-or-the-badge&logo=django&logoColor=white&link=https://docs.djangoproject.com/en/4.2/)](https://docs.djangoproject.com/en/4.2/), [![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/doc)](https://git-scm.com/doc).
 - 🧐 Fun fact: I love **pizza**, It gives me a happiness that breaks all barriers.
